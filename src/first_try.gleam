@@ -1,5 +1,5 @@
-import try_dict
+import try_option
 
 pub fn main() -> Nil {
-  try_dict.try_dict()
+  try_option.try_option()
 }
