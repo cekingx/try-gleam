@@ -1,6 +1,5 @@
-import try_list
-
+import try_result
 
 pub fn main() -> Nil {
-  try_list.do_list()
+  try_result.try_result()
 }
